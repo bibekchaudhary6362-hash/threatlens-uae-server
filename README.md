@@ -43,7 +43,7 @@ feed, and a VPN-restricted administrative backend.
 - Admin panel (VPN-restricted, returns 403 without VPN): https://threatlensuae.xyz/wp-admin
 
 ## Video Explainer
-https://1drv.ms/p/c/b0b279bd8ed1d2c4/IQB7WybBk2KZRpzjKwNhHB79AfeWk5sCGkdcE9ng0AIBkSA?e=yMu1XJ
+https://1drv.ms/v/c/b0b279bd8ed1d2c4/IQDx_qUl-ySgQp_bkA5SxIK1AbXgux3AJgsXF_X3VT_eX54?e=jMEWMD
 
 ## References
 
